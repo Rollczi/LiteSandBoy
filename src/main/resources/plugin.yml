@@ -1,0 +1,7 @@
+name: Lite-Sandboy
+version: '${version}'
+authors: [ Rollczi ]
+main: dev.rollczi.sandboy.LiteSandBoy
+api-version: 1.13
+depend: [ ProtocolLib ]
+softdepend: [ FunnyGuilds ]
