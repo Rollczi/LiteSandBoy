@@ -26,7 +26,7 @@ dependencies {
     implementation "dev.rollczi.litecommands:core:1.3.2"
     implementation "dev.rollczi.litecommands:bukkit:1.3.2"
 
-    compileOnly "org.spigotmc:spigot-api:1.18-R0.1-SNAPSHOT"
+    compileOnly "org.spigotmc:spigot-api:1.18-rc3-R0.1-SNAPSHOT"
     compileOnly "com.comphenix.protocol:ProtocolLib:4.7.0"
     compileOnly "net.dzikoysk.funnyguilds:plugin:4.10.0"
 
