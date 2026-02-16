@@ -30,7 +30,7 @@ dependencies {
     compileOnly "com.comphenix.protocol:ProtocolLib:4.7.0"
     compileOnly "net.dzikoysk.funnyguilds:plugin:4.10.0"
 
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.14.3'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
 }
 
